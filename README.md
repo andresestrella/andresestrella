@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Andrés
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresestrella&exclude_repo=Midgarson,unity-classroom" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresestrella&exclude_repo=Midgarson,unity-classroom" /> -->
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -17,7 +17,7 @@
 
 #
 - 🔭 I’m currently working on: front-end @Arcvale
-- 📫 reach me at: andresmauricioestrella@gmail.com
+<!-- - 📫 reach me at: andresmauricioestrella@gmail.com -->
 ## Some projects
 <!-- BEGIN YOUTUBE-CARDS -->
 [![This Video Has X Views](https://ytcards.demolab.com/?id=A6SqTY28ODY&lang=en&timestamp=1671036574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=114&title=Blind+Assistance+Device+Project+Showcase "Blind Assistance Device Project Showcase")](https://www.youtube.com/watch?v=A6SqTY28ODY)
