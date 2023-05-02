@@ -28,3 +28,6 @@ No problem is ever too hard with enough coffee
 Some interesting old school work: <br>
 * [URL shortener](https://github.com/NDavidDuranM/proyectofinal)
 * Car dealership [backend](https://github.com/PR0C3S/INGENIERIA_SOFTWARE) & [front end](https://github.com/PR0C3S/Dealer_x_FRONT)
+* [File compressor](https://github.com/Po1arM/LZW-algorithm), LZW algorithm implemented in Python
+* Distributed apps and microservices [assignments](https://github.com/Po1arM/Web-Avanzada)
+
