@@ -30,9 +30,10 @@ No problem is ever too hard with enough coffee
 * [10X developer workflow on Windows](https://github.com/andresestrella/.dotfiles)
 
 Some projects done in college: <br>
-* Car dealership [Java backend](https://github.com/PR0C3S/INGENIERIA_SOFTWARE) & [front end](https://github.com/PR0C3S/Dealer_x_FRONT)
-* [URL shortener](https://github.com/NDavidDuranM/proyectofinal)
+* [Rust implementation of the Apriori algorithm](https://github.com/andresestrella/apriori-rs)
 * [File compressor](https://github.com/Po1arM/LZW-algorithm), CLI tool for compressing files. LZW algorithm implemented in Python.
+* [URL shortener](https://github.com/NDavidDuranM/proyectofinal)
+* Car dealership [Java backend](https://github.com/PR0C3S/INGENIERIA_SOFTWARE) & [front end](https://github.com/PR0C3S/Dealer_x_FRONT)
 * Distributed web apps and microservices [assignments](https://github.com/Po1arM/Web-Avanzada)
-* [Rust implementation of the Apriori algorithm](https://github.com/andresestrella/apriori-rs) 
+
 
