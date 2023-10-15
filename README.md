@@ -2,7 +2,8 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresestrella&exclude_repo=Midgarson,unity-classroom" /> -->
 No problem is ever too hard with enough coffee
 
-- 🔭 I’m currently working on: [DrawDrills](https://drawdrills.org/home) @Arcvale
+- 🔭 I’m currently working on: Freelance data analyst
+Previously: [DrawDrills](https://drawdrills.org/home) @Arcvale
 <!-- - 📫 reach me at: andresmauricioestrella@gmail.com -->
 #
 ### 🧰 Languages and Tools
