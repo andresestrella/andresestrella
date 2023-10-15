@@ -25,10 +25,13 @@ No problem is ever too hard with enough coffee
 [![Blind Assistance Device Project Showcase](https://ytcards.demolab.com/?id=A6SqTY28ODY&lang=en&timestamp=1671036574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=114&title=Blind+Assistance+Device+Project+Showcase "Blind Assistance Device Project Showcase")](https://www.youtube.com/watch?v=A6SqTY28ODY)
 [![This Video Has X Views](https://ytcards.demolab.com/?id=TN-cHGmZzcA&lang=en&timestamp=1638811749&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=9 "This Video Has X Views")](https://www.youtube.com/watch?v=TN-cHGmZzcA)
 <!-- END YOUTUBE-CARDS -->
+* [Dominican Republic territory REST API](https://github.com/andresestrella/api-territorio-rd)
+* [10X developer workflow on Windows](https://github.com/andresestrella/.dotfiles)
 
 Some projects done in college: <br>
 * Car dealership [Java backend](https://github.com/PR0C3S/INGENIERIA_SOFTWARE) & [front end](https://github.com/PR0C3S/Dealer_x_FRONT)
 * [URL shortener](https://github.com/NDavidDuranM/proyectofinal)
 * [File compressor](https://github.com/Po1arM/LZW-algorithm), LZW algorithm implemented in Python
-* Distributed apps and microservices [assignments](https://github.com/Po1arM/Web-Avanzada)
+* Distributed web apps and microservices [assignments](https://github.com/Po1arM/Web-Avanzada)
+* [Rust implementation of the Apriori algorithm](https://github.com/andresestrella/apriori-rs) 
 
