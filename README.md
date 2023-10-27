@@ -11,6 +11,7 @@ Learn more about me on https://andresestrella.vercel.app/
 * [Dominican Republic territory REST API](https://github.com/andresestrella/api-territorio-rd)
 * [.NET MVC CRUD](https://github.com/andresestrella/Invoices-CRUD-MVC)
 * [10X developer workflow on Windows](https://github.com/andresestrella/.dotfiles)
+* [Rock Paper Scissors server and client](https://github.com/andresestrella/rock-paper-scissors)
 
 <br>
 
